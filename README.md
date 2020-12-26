@@ -1,5 +1,9 @@
 # aries
 
+通用后台系统
+
+api 文档地址见项目下 swagger.yml
+
 ## Project setup
 ```
 yarn install
